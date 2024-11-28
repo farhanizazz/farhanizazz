@@ -9,23 +9,23 @@ My journey blends **creativity** with **technical precision**, always aiming to 
 ## 🎨 Skills  
 
 ### 🌟 Frontend  
-- 🚀 React.js  
-- 🌿 Svelte  
-- ⚡ Next.js  
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
 ### 📱 Mobile Development  
-- 📱 Kotlin  
-- 🦋 Flutter  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 
 ### 🛠️ Tools  
-- 🎨 Figma  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ### 💻 Languages  
-- 💡 JavaScript  
-- 🐍 Python  
-- 📜 TypeScript  
-- ⚙️ Kotlin  
-- 🎯 Dart  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 
 ---
 
