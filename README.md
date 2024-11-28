@@ -1,16 +1,32 @@
-## Hi there 👋
+# ✨ About Me ✨  
 
-<!--
-**farhanizazz/farhanizazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Farhan**, a passionate **Front-End Developer** with a knack for crafting seamless and user-friendly interfaces.  
+With expertise in modern **web** and **mobile technologies**, I specialize in building visually appealing and high-performance applications.  
+My journey blends **creativity** with **technical precision**, always aiming to deliver impactful digital experiences.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Skills  
+
+### 🌟 Frontend  
+- 🚀 React.js  
+- 🌿 Svelte  
+- ⚡ Next.js  
+
+### 📱 Mobile Development  
+- 📱 Kotlin  
+- 🦋 Flutter  
+
+### 🛠️ Tools  
+- 🎨 Figma  
+
+### 💻 Languages  
+- 💡 JavaScript  
+- 🐍 Python  
+- 📜 TypeScript  
+- ⚙️ Kotlin  
+- 🎯 Dart  
+
+---
+
+🌟 *Let’s build something amazing together!* 🌟  
